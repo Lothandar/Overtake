@@ -1,0 +1,21 @@
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.dll.config
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Play Tennis.exe.config
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Play Tennis.exe
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Play Tennis.pdb
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.IO.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.MachineLearning.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Math.Core.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Math.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Statistics.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.IO.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.MachineLearning.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Math.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Math.Core.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\bin\Debug\Accord.Statistics.xml
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\obj\Debug\Play Tennis.csprojResolveAssemblyReference.cache
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\obj\Debug\Play Tennis.csproj.CoreCompileInputs.cache
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\obj\Debug\Play Tennis.exe
+C:\data\work\teaching delivered\HE\2018-19\AIP\staff\Resources\Machine Learning\ID3\Accord\Play Tennis\Play Tennis\Play Tennis\obj\Debug\Play Tennis.pdb
